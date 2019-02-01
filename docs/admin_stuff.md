@@ -1,4 +1,9 @@
-# Student's Scientific Association
+# Admin stuff
+
+Administrative processes, when joining the lab, going to a conference,
+submitting thesis, etc.
+
+## Student's Scientific Association
 
 As a TDK student you can get useful practical experience in research, get actual
 credits based on performance, and participate in the annual scientific
