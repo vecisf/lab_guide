@@ -39,7 +39,7 @@ might have moved, etc. Corrections are welcome as pull requests.
 - ELTE BTDK [site](http://btdk.elte.hu/), [RSS](http://btdk.elte.hu/?feed=rss2)
 - ELIXIR Hungary [site](http://elixir-hungary.org/), [RSS](http://elixir-hungary.org/?q=rss.xml)
 - ELIXIR News [site](https://elixir-europe.org/news), [RSS](http://elixir-europe.org/feeds/news.xml)
-- Enzimológiai Intézet [site](http://www.ttk.mta.hu/ei), [RSS](http://www.ttk.mta.hu/ei/feed/)
+- Enzimológiai Intézet [site](http://www.ttk.hu/), [RSS]()
 - ICGEB News [site](http://www.icgeb.org/), [RSS](https://www.icgeb.org/feed/)
 - Klinikai Biostatisztikai Társaság [site](http://www.biostat.hu/), [RSS](http://www.biostat.hu/feed/)
 - mta.hu hírek [site](http://mta.hu/), [RSS](http://mta.hu/rss/mta_hirei)
