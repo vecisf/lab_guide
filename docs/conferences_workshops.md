@@ -57,4 +57,4 @@ might have moved, etc. Corrections are welcome as pull requests.
 - Tempus események [site](https://tka.hu/rendezvenyek), [RSS](http://tka.hu/rss.php?type=events)
 - Tempus hírek [site](https://tka.hu/hirek), [RSS](https://tka.hu/rss.php?type=news)
 - Tempus nemzetközi [site](https://tka.hu/nemzetkoziesites), [RSS](http://tka.hu/rss.php?type=nemzetkoziCommon)
-
+- EOSC Secretariat [site](https://www.eoscsecretariat.eu/), [RSS](https://www.eoscsecretariat.eu/rss.xml)
